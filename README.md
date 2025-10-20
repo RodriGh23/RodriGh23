@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello, I'm Rodrigo Jesús-Portanet 👋
 
-<!--
-**RodriGh23/RodriGh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 About Me
+I'm a 4th-year Data Engineering and AI student at Complutense University of Madrid.
+Originally from Vigo and currently living in Madrid, I combine my technical education with a strong interest in technological development and business.
 
-Here are some ideas to get you started:
+I consider myself a proactive person with strong communication skills and adaptability, gained through experiences such as being a dean at a university residence and participating in public speaking and debates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I was Dean at Colegio Mayor Mendel for 2 years
+- 🌱 I have developed and worked on multiple projects such as Predicting the Price of Bitcoin
+- ⚡ I know multiple languages: C++, Python, Java, SQL, R
+
+
+# 📫 Contact
+
+✉️   Email: rodrigojportanet@gmail.com
+📞   Phone: +34 617 817 348
+📍    Location: Madrid, Spain
+🔗   Linkedin: www.linkedin.com/in/rodrigo-jesús-portanet-martínez-62186b328
+
+# 🌐 Languages
+
+Spanish: Native
+Galician: Native
+English: C1 Level (Cambridge B2 First Certificate + school year in the USA)
+French: B2 Level (TCF)
