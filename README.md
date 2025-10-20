@@ -14,13 +14,19 @@ I consider myself a proactive person with strong communication skills and adapta
 # 📫 Contact
 
 ✉️   Email: rodrigojportanet@gmail.com
+
 📞   Phone: +34 617 817 348
+
 📍    Location: Madrid, Spain
+
 🔗   Linkedin: www.linkedin.com/in/rodrigo-jesús-portanet-martínez-62186b328
 
 # 🌐 Languages
 
 Spanish: Native
+
 Galician: Native
+
 English: C1 Level (Cambridge B2 First Certificate + school year in the USA)
+
 French: B2 Level (TCF)
